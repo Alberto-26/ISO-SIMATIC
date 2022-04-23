@@ -9,4 +9,5 @@ Todos del grupo Teórico 03
 - Daniel Rodríguez Santacruz RS172168
 
 - Wilber Adonay Cruz Cruz CC181562
+...
 
