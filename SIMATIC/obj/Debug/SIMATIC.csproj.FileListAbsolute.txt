@@ -1,0 +1,111 @@
+C:\Users\steve\Desktop\SIMATIC\SIMATIC\bin\Debug\SIMATIC.exe.config
+C:\Users\steve\Desktop\SIMATIC\SIMATIC\bin\Debug\SIMATIC.exe
+C:\Users\steve\Desktop\SIMATIC\SIMATIC\bin\Debug\SIMATIC.pdb
+C:\Users\steve\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.csprojAssemblyReference.cache
+C:\Users\steve\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Form1.resources
+C:\Users\steve\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Properties.Resources.resources
+C:\Users\steve\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.csproj.GenerateResource.cache
+C:\Users\steve\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.csproj.CoreCompileInputs.cache
+C:\Users\steve\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.exe
+C:\Users\steve\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.pdb
+C:\Users\steve\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Clientes.resources
+C:\Users\steve\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Factura.resources
+C:\Users\steve\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Productos.resources
+C:\Users\steve\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Proveedores.resources
+C:\Users\steve\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.InicioSesion.resources
+C:\Users\steve\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Usuarios.resources
+C:\Users\steve\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.NuevaContra.resources
+C:\Users\Jorge\Desktop\SIMATIC\SIMATIC\bin\Debug\SIMATIC.exe.config
+C:\Users\Jorge\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.exe
+C:\Users\Jorge\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.pdb
+C:\Users\Jorge\Desktop\SIMATIC\SIMATIC\bin\Debug\SIMATIC.exe
+C:\Users\Jorge\Desktop\SIMATIC\SIMATIC\bin\Debug\SIMATIC.pdb
+C:\Users\Jorge\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Clientes.resources
+C:\Users\Jorge\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Factura.resources
+C:\Users\Jorge\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Form1.resources
+C:\Users\Jorge\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.InicioSesion.resources
+C:\Users\Jorge\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.NuevaContra.resources
+C:\Users\Jorge\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Productos.resources
+C:\Users\Jorge\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Properties.Resources.resources
+C:\Users\Jorge\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Proveedores.resources
+C:\Users\Jorge\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Usuarios.resources
+C:\Users\Jorge\Desktop\SIMATIC\SIMATIC\obj\Debug\SIMATIC.csproj.GenerateResource.Cache
+C:\Users\Jorge\Documents\Direccion de Proyectos\SIMATIC\SIMATIC\bin\Debug\SIMATIC.exe.config
+C:\Users\Jorge\Documents\Direccion de Proyectos\SIMATIC\SIMATIC\obj\Debug\SIMATIC.exe
+C:\Users\Jorge\Documents\Direccion de Proyectos\SIMATIC\SIMATIC\obj\Debug\SIMATIC.pdb
+C:\Users\Jorge\Documents\Direccion de Proyectos\SIMATIC\SIMATIC\bin\Debug\SIMATIC.exe
+C:\Users\Jorge\Documents\Direccion de Proyectos\SIMATIC\SIMATIC\bin\Debug\SIMATIC.pdb
+C:\Users\Jorge\Documents\Direccion de Proyectos\SIMATIC\SIMATIC\obj\Debug\SIMATIC.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Direccion de Proyectos\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Clientes.resources
+C:\Users\Jorge\Documents\Direccion de Proyectos\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Factura.resources
+C:\Users\Jorge\Documents\Direccion de Proyectos\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Form1.resources
+C:\Users\Jorge\Documents\Direccion de Proyectos\SIMATIC\SIMATIC\obj\Debug\SIMATIC.InicioSesion.resources
+C:\Users\Jorge\Documents\Direccion de Proyectos\SIMATIC\SIMATIC\obj\Debug\SIMATIC.NuevaContra.resources
+C:\Users\Jorge\Documents\Direccion de Proyectos\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Productos.resources
+C:\Users\Jorge\Documents\Direccion de Proyectos\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Properties.Resources.resources
+C:\Users\Jorge\Documents\Direccion de Proyectos\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Proveedores.resources
+C:\Users\Jorge\Documents\Direccion de Proyectos\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Usuarios.resources
+C:\Users\Jorge\Documents\Direccion de Proyectos\SIMATIC\SIMATIC\obj\Debug\SIMATIC.csproj.GenerateResource.Cache
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\bin\Debug\SIMATIC.exe.config
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\bin\Debug\SIMATIC.exe
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\bin\Debug\SIMATIC.pdb
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\obj\Debug\SIMATIC.csprojAssemblyReference.cache
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Clientes.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Factura.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Form1.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\obj\Debug\SIMATIC.InicioSesion.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\obj\Debug\SIMATIC.NuevaContra.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Productos.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Properties.Resources.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Proveedores.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Usuarios.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\obj\Debug\SIMATIC.csproj.GenerateResource.cache
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\obj\Debug\SIMATIC.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\obj\Debug\SIMATIC.exe
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\obj\Debug\SIMATIC.pdb
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\obj\Debug\SIMATIC.facturacion.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\ALEXANDER\Downloads\SIMATIC(1)\SIMATIC\SIMATIC\obj\Debug\SIMATIC.csproj.CopyComplete
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.csprojAssemblyReference.cache
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Clientes.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Factura.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.facturacion.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.facturacioncreditocs.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Form1.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.InicioSesion.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.NuevaContra.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Productos.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Properties.Resources.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Proveedores.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Usuarios.resources
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.csproj.GenerateResource.cache
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.exe
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.pdb
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\bin\Debug\SIMATIC.exe.config
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\bin\Debug\SIMATIC.exe
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\bin\Debug\SIMATIC.pdb
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\ALEXANDER\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.csproj.CopyComplete
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\bin\Debug\SIMATIC.exe.config
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.exe
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.pdb
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\bin\Debug\SIMATIC.exe
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\bin\Debug\SIMATIC.pdb
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Clientes.resources
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Factura.resources
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.facturacion.resources
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.facturacioncreditocs.resources
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Form1.resources
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.InicioSesion.resources
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.NuevaContra.resources
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Productos.resources
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Properties.Resources.resources
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Proveedores.resources
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.Usuarios.resources
+C:\Users\Jorge\Downloads\SIMATIC\SIMATIC\SIMATIC\obj\Debug\SIMATIC.csproj.GenerateResource.Cache
